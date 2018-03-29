@@ -1,0 +1,41 @@
+
+button, div, form, input {
+	margin: 5px;
+}
+
+.jumbotron {
+    font-size: 70px;
+}
+
+h3 {
+   font-size: 50px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: #fff;
+}
+
+.btn-default {
+    color: #000;
+    font-size: medium;
+}
+
+body {
+	background-image: url("http://5images.cgames.de/images/gamestar/226/game-of-thrones_6003194.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 25px;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+}
