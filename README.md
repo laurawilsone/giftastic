@@ -1,6 +1,6 @@
 # Giftastic
 
-SMU week 6 assignment
+SMU Coding Bootcamp week 6 assignment
 
 Interactive Gif webpage
 
