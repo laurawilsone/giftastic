@@ -10,9 +10,14 @@ Enter name of Game of Thornes charater in input box. Once entered 10 gifs of tha
 
 Enjoy!
 
+https://laurawilsone.github.io/giftastic/
+
 # Built With
 - HTML
 - CSS
 - JavaScript
 - jQuery- JavaScript Library
 - gify API
+
+# Contributers
+Laura Wilson [LinkedIn](www.linkedin.com/in/laura-wilson-03b266148) 
