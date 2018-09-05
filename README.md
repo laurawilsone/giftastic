@@ -6,7 +6,7 @@ Interactive Gif webpage
 
 # Getting Started
 
-Enter name of Game of Thornes charater in input box. Once entered 10 gifs of that character will appear on the page.
+Enter name of a Game of Thornes character and 10 gifs will appear!
 
 Enjoy!
 
